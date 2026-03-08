@@ -27,7 +27,7 @@
 
 7. Project Documentation
    The complete project documentation is available here:
-   https://drive.google.com/file/d/1jxSrwpi0QMaLwCP1V1vGbSjJlPvY-ZLF/view?usp=sharing
+   https://drive.google.com/file/d/19meC4d44wvtjvlQXvASPQKVbJlIVDqqk/view?usp=sharing
 
 9. Project Files
     This repository contains the following files:
